@@ -1,0 +1,83 @@
+# ===============================
+# Maven
+# ===============================
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# ===============================
+# Java / Compiled files
+# ===============================
+*.class
+*.jar
+*.war
+*.ear
+
+# ===============================
+# IntelliJ IDEA
+# ===============================
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+logs/
+
+# ===============================
+# OS generated files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Environment files
+# ===============================
+.env
+.env.*
+
+# ===============================
+# Application secrets
+# ===============================
+src/main/resources/application.properties
+src/main/resources/application.yml
+src/main/resources/application.yaml
+
+# ===============================
+# Spring Boot generated
+# ===============================
+spring.log
+
+# ===============================
+# Test output
+# ===============================
+/test-output/
+
+# ===============================
+# Temporary files
+# ===============================
+*.tmp
+*.temp
+
+# ===============================
+# Docker
+# ===============================
+docker-compose.override.yml
+
+
+# ===============================
+# Build directories
+# ===============================
+build/
+out/
