@@ -278,7 +278,3 @@ This project demonstrates:
 - Integration testing with MockMvc + H2
 
 ---
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
