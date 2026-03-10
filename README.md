@@ -128,7 +128,7 @@ src/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/secure-todo-api.git
+git clone https://github.com/toby-yip-518/springboot-todo-api.git
 cd springboot-todo-api
 ```
 
