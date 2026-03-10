@@ -129,7 +129,7 @@ src/
 
 ```bash
 git clone https://github.com/yourusername/secure-todo-api.git
-cd secure-todo-api
+cd springboot-todo-api
 ```
 
 **2. Create the database**
