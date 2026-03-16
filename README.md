@@ -1,7 +1,7 @@
 # Secure Todo API
 
 ![Java](https://img.shields.io/badge/Java-21+-blue)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-3.x-brightgreen)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-4.x-brightgreen)
 ![Spring Security](https://img.shields.io/badge/Security-SpringSecurity-green)
 ![JWT](https://img.shields.io/badge/Auth-JWT-orange)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
