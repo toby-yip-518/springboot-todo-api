@@ -7,7 +7,6 @@
 ![MySQL](https://img.shields.io/badge/Database-MySQL-blue)
 ![Swagger](https://img.shields.io/badge/API-Swagger-green)
 ![JUnit](https://img.shields.io/badge/Test-JUnit-red)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 A secure RESTful Todo API built with **Spring Boot**, demonstrating production-style backend architecture including JWT authentication, rate limiting, pagination, and comprehensive testing.
 
@@ -26,7 +25,6 @@ A secure RESTful Todo API built with **Spring Boot**, demonstrating production-s
 - [Testing](#testing)
 - [Environment Variables](#environment-variables)
 - [Future Improvements](#future-improvements)
-- [License](#license)
 
 ---
 
