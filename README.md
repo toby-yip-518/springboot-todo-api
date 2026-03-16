@@ -62,7 +62,7 @@ A secure RESTful Todo API built with **Spring Boot**, demonstrating production-s
 | Layer | Technology |
 |---|---|
 | Language | Java 21 + |
-| Framework | Spring Boot 3.x |
+| Framework | Spring Boot 4.x |
 | Security | Spring Security + JWT |
 | Database | MySQL + Spring Data JPA |
 | Rate Limiting | Bucket4j |
